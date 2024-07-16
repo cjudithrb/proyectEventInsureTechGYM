@@ -1,0 +1,26 @@
+{
+  "tenant_id": "GYM",
+  "reclamo_id": 4,
+  "reclamo_datos": {
+    "cliente_id": "pontaneda@gmail.com",
+    "fecha_compra": "2024-06-01T17:35:15Z",
+    "items": [
+      {
+        "item_id": "001",
+        "product_name": "Seguro de Viaje",
+        "reclamo": "No reembolsa cancelaciones de vuelo por razones personales"
+      },
+      {
+        "item_id": "002",
+        "product_name": "Seguro de Mascotas",
+        "reclamo": "No cubre tratamientos veterinarios para enfermedades preexistentes"
+      }
+    ],
+    "direccion_respuesta": {
+      "calle": "Alcanfores 300",
+      "distrito": "San Isidro",
+      "provincia": "Lima",
+      "pais": "Perú"
+    }
+  }
+}
